@@ -4,7 +4,7 @@
 
 ## Stake here:
 
-httpsputlinkhere
+https://nft-stake.netlify.app/
 
 ### Mint here:
 
