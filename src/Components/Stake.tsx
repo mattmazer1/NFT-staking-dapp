@@ -8,7 +8,7 @@ import {
 	WalletAddressContext,
 } from "../App";
 import { ethers } from "ethers";
-
+/*eslint-disable*/
 export default function Stake() {
 	const { walletAddress } = useContext(WalletAddressContext);
 	const { staking, setStaking } = useContext(StakingContext);
